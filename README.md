@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋 I'm Rachith P
 
-<!--
-**Rachith7271/Rachith7271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer | Flask | SQL | Machine Learning
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering graduate passionate about building practical software solutions using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Python Automation
+- Flask Web Development
+- Machine Learning
+- Backend Development
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- C
+- SQL
+- HTML
+- CSS
+
+### Frameworks
+- Flask
+- TensorFlow
+- Keras
+
+### Databases
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
+
+---
+
+## Featured Projects
+
+### ♻ AI Smart Waste Management
+Machine Learning based waste classification and monitoring system.
+
+Tech Stack:
+- Python
+- TensorFlow
+- Flask
+- OpenCV
+- MySQL
+
+---
+
+### 🌐 Flask Web Applications
+
+- Authentication
+- CRUD Operations
+- REST APIs
+
+---
+
+### ⚙ Python Automation
+
+Automation scripts for:
+- Excel
+- PDF
+- File Management
+- Data Processing
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+www.linkedin.com/in/rachithp
+
+Email:
+rachithp10@gmail.com
